@@ -2,19 +2,19 @@
 <style>.bg{fill:#fffefe;stroke:#e4e2e2}.title{fill:#2f80ed;font:600 18px 'Segoe UI',Ubuntu,-apple-system,Helvetica,Arial,sans-serif}.lbl{fill:#434d58;font:400 14px 'Segoe UI',Ubuntu,-apple-system,Helvetica,Arial,sans-serif}.val{fill:#434d58;font:700 14px 'Segoe UI',Ubuntu,-apple-system,Helvetica,Arial,sans-serif}.ic{fill:#4c71f2}.sub{fill:#6a737d;font:400 12px 'Segoe UI',Ubuntu,-apple-system,Helvetica,Arial,sans-serif}.track{stroke:#2f80ed;opacity:.2}.ring{stroke:#2f80ed}.big{fill:#434d58;font:800 24px 'Segoe UI',Ubuntu,-apple-system,Helvetica,Arial,sans-serif}.small{fill:#6a737d;font:400 11px 'Segoe UI',Ubuntu,-apple-system,Helvetica,Arial,sans-serif}.chip{fill:#844fba;fill-opacity:.12;stroke:#844fba;stroke-opacity:.5}.chipt{fill:#6f3fa8;font:600 12px 'Segoe UI',Ubuntu,-apple-system,Helvetica,Arial,sans-serif}@media (prefers-color-scheme:dark){.bg{fill:#0d1117;stroke:#30363d}.title{fill:#58a6ff}.lbl,.val,.big{fill:#c9d1d9}.ic{fill:#79c0ff}.sub,.small{fill:#8b949e}.track,.ring{stroke:#58a6ff}.chipt{fill:#b48ae6}}</style>
 <rect class="bg" x="0.5" y="0.5" rx="4.5" width="494" height="194"/>
 <text class="title" x="25" y="35">Most used languages</text>
-<text class="sub" x="25" y="55">by lines shipped at work · the means, not the job</text>
+<text class="sub" x="25" y="55">by lines shipped in 2026 · the means, not the job</text>
 <mask id="m"><rect x="25" y="70" width="445" height="8" rx="4" fill="#fff"/></mask><g mask="url(#m)">
-<rect x="25.0" y="70" width="316.4" height="8" fill="#dea584"/>
-<rect x="340.9" y="70" width="107.3" height="8" fill="#3178c6"/>
-<rect x="447.8" y="70" width="11.2" height="8" fill="#e38c00"/>
-<rect x="458.4" y="70" width="7.2" height="8" fill="#844fba"/>
-<rect x="465.1" y="70" width="5.4" height="8" fill="#8b949e"/>
+<rect x="25.0" y="70" width="309.3" height="8" fill="#dea584"/>
+<rect x="333.8" y="70" width="118.0" height="8" fill="#3178c6"/>
+<rect x="451.3" y="70" width="10.7" height="8" fill="#e38c00"/>
+<rect x="461.5" y="70" width="5.4" height="8" fill="#844fba"/>
+<rect x="466.4" y="70" width="4.1" height="8" fill="#8b949e"/>
 </g>
-<circle cx="30" cy="102" r="5" fill="#dea584"/><text class="lbl" x="41" y="106">Rust <tspan class="sub">71%</tspan></text>
-<circle cx="180" cy="102" r="5" fill="#3178c6"/><text class="lbl" x="191" y="106">TypeScript <tspan class="sub">24%</tspan></text>
-<circle cx="330" cy="102" r="5" fill="#e38c00"/><text class="lbl" x="341" y="106">SQL <tspan class="sub">2.4%</tspan></text>
-<circle cx="30" cy="126" r="5" fill="#844fba"/><text class="lbl" x="41" y="130">Terraform <tspan class="sub">1.5%</tspan></text>
-<circle cx="180" cy="126" r="5" fill="#8b949e"/><text class="lbl" x="191" y="130">Other <tspan class="sub">1.1%</tspan></text>
+<circle cx="30" cy="102" r="5" fill="#dea584"/><text class="lbl" x="41" y="106">Rust <tspan class="sub">69%</tspan></text>
+<circle cx="180" cy="102" r="5" fill="#3178c6"/><text class="lbl" x="191" y="106">TypeScript <tspan class="sub">26%</tspan></text>
+<circle cx="330" cy="102" r="5" fill="#e38c00"/><text class="lbl" x="341" y="106">SQL <tspan class="sub">2.3%</tspan></text>
+<circle cx="30" cy="126" r="5" fill="#844fba"/><text class="lbl" x="41" y="130">Terraform <tspan class="sub">1.1%</tspan></text>
+<circle cx="180" cy="126" r="5" fill="#8b949e"/><text class="lbl" x="191" y="130">Other <tspan class="sub">0.8%</tspan></text>
 <rect class="chip" x="25" y="152" width="445" height="26" rx="13"/>
 <text class="chipt" x="247" y="169" text-anchor="middle">Terraform · Terragrunt on GCP: the whole platform as code</text>
 </svg>
