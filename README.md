@@ -1,24 +1,26 @@
-### Hi, I'm Antonio Matioli 👋
+### Hi, I'm Matioli 👋
 
-Principal Software Engineer at [TerraMagna](https://terramagna.com.br), building the
-credit platform behind agricultural lending in Brazil. That covers origination, risk,
-collections, payments and banking.
+Principal Software Engineer with 15+ years building financial products. At
+[TerraMagna](https://terramagna.com.br) I turn agricultural credit into software:
+from the moment a farmer asks for credit to the day the last installment is paid.
 
-**What I actually build**
-- **Money that moves correctly**: PIX, bank slips, collections and debt negativation,
-  where a silent bug is a farmer charged twice
-- **Systems the next engineer can change without fear**: rich domain models, lean
-  handlers, and every PR stating what it does to the behavior that already existed
-- **Platforms that stay up**: event-driven services on GCP, Terraform all the way down
-- **Harness engineering**: the agent harness my team's engineering runs through.
-  Specialized agents, hooks that enforce review gates, skills with scripts as tools,
-  and a retrolearning loop that turns review findings into lessons
+**Where I add value**
+- **Credit that reaches the field faster**: origination and risk flows that cut the
+  time between request and disbursement
+- **Money that moves correctly**: payments, bank slips, PIX and collections, where a
+  silent bug means a farmer charged twice or a debt never collected
+- **Recovery without friction**: collection workflows and negativation that bring
+  money back while keeping the customer relationship
+- **A platform that stays up**: event-driven services on GCP, the whole
+  infrastructure as code with Terraform
+- **A team that ships more with less rework**: harness engineering, an agent
+  workflow with review gates and a learning loop that turns every review into a lesson
 
-> Languages are just the means. Rust today, Go, Node or Python tomorrow.
-> The job is the problem, not the tool.
+> Languages are just the means. The job is the product.
 
 <p align="center">
-  <img src="metrics.svg" alt="GitHub metrics" width="100%"/>
+  <img src="assets/stats.svg" alt="Work in numbers" width="49%"/>
+  <img src="assets/languages.svg" alt="Most used languages" width="49%"/>
 </p>
 
 <p align="center">
