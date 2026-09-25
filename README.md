@@ -2,26 +2,26 @@
 
 Principal Software Engineer at [TerraMagna](https://terramagna.com.br), building the
 credit platform behind agricultural lending in Brazil. That covers origination, risk,
-collections, payments and banking, running as a Rust microservice monorepo on GCP.
+collections, payments and banking.
 
-**What I work on**
-- **Rust backends**: Axum, tokio-postgres, Pub/Sub, event-driven services, with rich
-  domain models and lean handlers
-- **Fintech plumbing**: PIX, bank slips, credit bureau integrations, debt collection
-  and negativation flows, where correctness beats cleverness
-- **Platform & infra**: Terraform/Terragrunt on GCP, Cloud Run, Cloud SQL, BigQuery
-- **Harness engineering**: I design the agent harness my engineering runs through.
-  That means specialized agents (spec author, executors, reviewer), hooks that enforce
-  review and behavior-delta gates, skills with scripts as tools, and a retrolearning
-  loop that turns review findings into lessons
+**What I actually build**
+- **Money that moves correctly**: PIX, bank slips, collections and debt negativation,
+  where a silent bug is a farmer charged twice
+- **Systems the next engineer can change without fear**: rich domain models, lean
+  handlers, and every PR stating what it does to the behavior that already existed
+- **Platforms that stay up**: event-driven services on GCP, Terraform all the way down
+- **Harness engineering**: the agent harness my team's engineering runs through.
+  Specialized agents, hooks that enforce review gates, skills with scripts as tools,
+  and a retrolearning loop that turns review findings into lessons
 
-**How I like to build**
-Boring code over clever code. Business rules live in the domain. Every change ships
-with a note on what it does to the behavior that already existed.
+> Languages are just the means. Rust today, Go, Node or Python tomorrow.
+> The job is the problem, not the tool.
 
-<p>
-  <img src="assets/languages.svg" alt="Languages and craft" width="49%"/>
-  <img src="assets/code-mix.svg" alt="Where my code went" width="49%"/>
+<p align="center">
+  <img src="metrics.svg" alt="GitHub metrics" width="100%"/>
 </p>
 
-📍 São José dos Campos, SP · [LinkedIn](https://www.linkedin.com/in/antonio-miguel-matioli-junior/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/antonio-miguel-matioli-junior/">LinkedIn</a> ·
+  São José dos Campos, SP
+</p>
