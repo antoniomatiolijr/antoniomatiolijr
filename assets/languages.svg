@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="320" viewBox="0 0 495 320" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+<style>.bg{fill:#fff;stroke:#d0d7de}.t{fill:#1f2328}.m{fill:#59636e}.tr{fill:#eff2f5}@media (prefers-color-scheme:dark){.bg{fill:#0d1117;stroke:#30363d}.t{fill:#e6edf3}.m{fill:#9198a1}.tr{fill:#21262d}}</style>
+<rect class="bg" x="0.5" y="0.5" width="494" height="319" rx="8"/>
+<text class="t" x="24" y="34" font-size="16" font-weight="600">Languages &amp; craft</text>
+<text class="m" x="24" y="54" font-size="12">what I build with, not just what the repos show</text>
+<text class="t" x="24" y="88" font-size="13">Rust</text>
+<rect x="190" y="79" width="38" height="10" rx="5" fill="#dea584"/>
+<rect x="234" y="79" width="38" height="10" rx="5" fill="#dea584"/>
+<rect x="278" y="79" width="38" height="10" rx="5" fill="#dea584"/>
+<rect x="322" y="79" width="38" height="10" rx="5" fill="#dea584"/>
+<rect x="366" y="79" width="38" height="10" rx="5" fill="#dea584"/>
+<text class="m" x="410" y="88" font-size="12">daily driver</text>
+<text class="t" x="24" y="118" font-size="13">Harness engineering</text>
+<rect x="190" y="109" width="38" height="10" rx="5" fill="#d97757"/>
+<rect x="234" y="109" width="38" height="10" rx="5" fill="#d97757"/>
+<rect x="278" y="109" width="38" height="10" rx="5" fill="#d97757"/>
+<rect x="322" y="109" width="38" height="10" rx="5" fill="#d97757"/>
+<rect x="366" y="109" width="38" height="10" rx="5" fill="#d97757"/>
+<text class="m" x="410" y="118" font-size="12">daily driver</text>
+<text class="t" x="24" y="148" font-size="13">TypeScript · React</text>
+<rect x="190" y="139" width="38" height="10" rx="5" fill="#3178c6"/>
+<rect x="234" y="139" width="38" height="10" rx="5" fill="#3178c6"/>
+<rect x="278" y="139" width="38" height="10" rx="5" fill="#3178c6"/>
+<rect x="322" y="139" width="38" height="10" rx="5" fill="#3178c6"/>
+<rect x="366" y="139" width="38" height="10" rx="5" class="tr"/>
+<text class="m" x="410" y="148" font-size="12">strong</text>
+<text class="t" x="24" y="178" font-size="13">Node.js</text>
+<rect x="190" y="169" width="38" height="10" rx="5" fill="#5fa04e"/>
+<rect x="234" y="169" width="38" height="10" rx="5" fill="#5fa04e"/>
+<rect x="278" y="169" width="38" height="10" rx="5" fill="#5fa04e"/>
+<rect x="322" y="169" width="38" height="10" rx="5" fill="#5fa04e"/>
+<rect x="366" y="169" width="38" height="10" rx="5" class="tr"/>
+<text class="m" x="410" y="178" font-size="12">strong</text>
+<text class="t" x="24" y="208" font-size="13">Go</text>
+<rect x="190" y="199" width="38" height="10" rx="5" fill="#00add8"/>
+<rect x="234" y="199" width="38" height="10" rx="5" fill="#00add8"/>
+<rect x="278" y="199" width="38" height="10" rx="5" fill="#00add8"/>
+<rect x="322" y="199" width="38" height="10" rx="5" fill="#00add8"/>
+<rect x="366" y="199" width="38" height="10" rx="5" class="tr"/>
+<text class="m" x="410" y="208" font-size="12">strong</text>
+<text class="t" x="24" y="238" font-size="13">Python</text>
+<rect x="190" y="229" width="38" height="10" rx="5" fill="#3572a5"/>
+<rect x="234" y="229" width="38" height="10" rx="5" fill="#3572a5"/>
+<rect x="278" y="229" width="38" height="10" rx="5" fill="#3572a5"/>
+<rect x="322" y="229" width="38" height="10" rx="5" fill="#3572a5"/>
+<rect x="366" y="229" width="38" height="10" rx="5" class="tr"/>
+<text class="m" x="410" y="238" font-size="12">strong</text>
+<text class="t" x="24" y="268" font-size="13">PostgreSQL</text>
+<rect x="190" y="259" width="38" height="10" rx="5" fill="#336791"/>
+<rect x="234" y="259" width="38" height="10" rx="5" fill="#336791"/>
+<rect x="278" y="259" width="38" height="10" rx="5" fill="#336791"/>
+<rect x="322" y="259" width="38" height="10" rx="5" fill="#336791"/>
+<rect x="366" y="259" width="38" height="10" rx="5" class="tr"/>
+<text class="m" x="410" y="268" font-size="12">strong</text>
+<text class="t" x="24" y="298" font-size="13">Terraform · GCP</text>
+<rect x="190" y="289" width="38" height="10" rx="5" fill="#7b42bc"/>
+<rect x="234" y="289" width="38" height="10" rx="5" fill="#7b42bc"/>
+<rect x="278" y="289" width="38" height="10" rx="5" fill="#7b42bc"/>
+<rect x="322" y="289" width="38" height="10" rx="5" fill="#7b42bc"/>
+<rect x="366" y="289" width="38" height="10" rx="5" class="tr"/>
+<text class="m" x="410" y="298" font-size="12">strong</text>
+</svg>
